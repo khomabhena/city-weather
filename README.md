@@ -3,6 +3,7 @@ Weather Web App
 
 ## Get Current Location
 1. Get current location from the browser if its available
+2. Request weather data if it's available
 
 ## Geo API 
 1. Get city
